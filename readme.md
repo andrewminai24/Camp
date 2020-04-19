@@ -1,3 +1,3 @@
-# YelpCamp
+# Yelpcamp
 
-### Refactored by Ian Schoonover
+### 
